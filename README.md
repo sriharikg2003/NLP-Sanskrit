@@ -1,5 +1,5 @@
 ## NLP-Sanskrit
-This repository contains a Natural Language Processing (NLP) project focused on understanding the patterns in Sanskrit texts, specifically the Bhagavad Gita and Yoga Sutra, under the expert guidance of Prof. Kushal Shah.
+This repository contains a Natural Language Processing (NLP) project focused on understanding the patterns in Sanskrit texts, specifically the Bhagavad Gita and Yoga Sutra, under the expert guidance of **Prof. Kushal Shah**.
 
 ## Dataset
 The dataset used for this project can be accessed and downloaded from the following link: 
